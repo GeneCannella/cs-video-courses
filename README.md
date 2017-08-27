@@ -1,5 +1,7 @@
 ## Computer Science courses with video lectures
 
+### Cloned from reddit user "Developer-Y"
+
 ### Please Note: UC Berkeley course videos to be taken offline on 15th March 2017. As per website, Beginning March 15, 2017, iTunesU Course Capture content will be removed. You may continue to use/download course capture content until that date. [issue#47](https://github.com/Developer-Y/cs-video-courses/issues/47)
 
 **Introduction**
